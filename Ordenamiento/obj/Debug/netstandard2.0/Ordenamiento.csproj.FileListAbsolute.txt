@@ -1,0 +1,9 @@
+C:\Users\mario\OneDrive\Escritorio\tdd-marioa98\Ordenamiento\bin\Debug\netstandard2.0\Ordenamiento.deps.json
+C:\Users\mario\OneDrive\Escritorio\tdd-marioa98\Ordenamiento\bin\Debug\netstandard2.0\Ordenamiento.dll
+C:\Users\mario\OneDrive\Escritorio\tdd-marioa98\Ordenamiento\bin\Debug\netstandard2.0\Ordenamiento.pdb
+C:\Users\mario\OneDrive\Escritorio\tdd-marioa98\Ordenamiento\obj\Debug\netstandard2.0\Ordenamiento.csprojAssemblyReference.cache
+C:\Users\mario\OneDrive\Escritorio\tdd-marioa98\Ordenamiento\obj\Debug\netstandard2.0\Ordenamiento.csproj.CoreCompileInputs.cache
+C:\Users\mario\OneDrive\Escritorio\tdd-marioa98\Ordenamiento\obj\Debug\netstandard2.0\Ordenamiento.AssemblyInfoInputs.cache
+C:\Users\mario\OneDrive\Escritorio\tdd-marioa98\Ordenamiento\obj\Debug\netstandard2.0\Ordenamiento.AssemblyInfo.cs
+C:\Users\mario\OneDrive\Escritorio\tdd-marioa98\Ordenamiento\obj\Debug\netstandard2.0\Ordenamiento.dll
+C:\Users\mario\OneDrive\Escritorio\tdd-marioa98\Ordenamiento\obj\Debug\netstandard2.0\Ordenamiento.pdb
