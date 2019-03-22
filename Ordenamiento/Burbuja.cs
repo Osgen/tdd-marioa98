@@ -8,13 +8,16 @@ namespace Ordenamiento
     {
         public void Ordenar(int[] arr)
         {
-            for (int i = 0; i < arr.Length - 1; i++)
+            for (int i = 1; i < arr.Length; i++)
             {
-                if (arr[i] > arr[i + 1])
+                for (int j = arr.Length - 1; j >= i; j--)
                 {
-                    int aux = arr[i];
-                    arr[i] = arr[i + 1];
-                    arr[i + 1] = aux;
+                    if (arr[j - 1] > arr[j])
+                    {
+                        int aux = arr[j - 1];
+                        arr[j - 1] = arr[j];
+                        arr[j] = aux;
+                    }
                 }
             }
         }
